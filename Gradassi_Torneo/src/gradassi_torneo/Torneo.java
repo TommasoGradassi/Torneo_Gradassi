@@ -7,6 +7,7 @@ package gradassi_torneo;
 /**
  *
  * @author Studente
+ * @see scheda esercizatione
  */
 public class Torneo {
     
